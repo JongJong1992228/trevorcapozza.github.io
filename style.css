@@ -240,7 +240,7 @@ img {
 	
 	html, body {
 		height: unset;
-		overflow: unset;
+/* 		overflow: unset; */
 		background: #E0E0E0;
 	}
 
